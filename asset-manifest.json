@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/traveling_journal/static/css/main.de4e1064.css",
-    "main.js": "/traveling_journal/static/js/main.91a5ffaf.js",
+    "main.js": "/traveling_journal/static/js/main.ce3b5f05.js",
     "static/js/787.3e9f2608.chunk.js": "/traveling_journal/static/js/787.3e9f2608.chunk.js",
+    "static/media/Geirangerfjord.jpg": "/traveling_journal/static/media/Geirangerfjord.c26fe370a907d8a889ba.jpg",
+    "static/media/Sydney-Opera-House.jpg": "/traveling_journal/static/media/Sydney-Opera-House.45994e4a8431b8490108.jpg",
+    "static/media/Mount-Fuji.jpg": "/traveling_journal/static/media/Mount-Fuji.10ff067ecd97eb859f6f.jpg",
     "static/media/4781517.png": "/traveling_journal/static/media/4781517.c1b7120f8e35dbec1277.png",
     "index.html": "/traveling_journal/index.html",
     "main.de4e1064.css.map": "/traveling_journal/static/css/main.de4e1064.css.map",
-    "main.91a5ffaf.js.map": "/traveling_journal/static/js/main.91a5ffaf.js.map",
+    "main.ce3b5f05.js.map": "/traveling_journal/static/js/main.ce3b5f05.js.map",
     "787.3e9f2608.chunk.js.map": "/traveling_journal/static/js/787.3e9f2608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de4e1064.css",
-    "static/js/main.91a5ffaf.js"
+    "static/js/main.ce3b5f05.js"
   ]
 }
